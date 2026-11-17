@@ -20,5 +20,8 @@
   "homepage": "https://github.com/EBAC-QE/ci-cd-teste-exemplo#readme",
   "dependencies": {
     "cypress": "^16.3.0"
+  },
+  "devDependencies": {
+    "allure-cypress": "^3.15.0"
   }
 }
